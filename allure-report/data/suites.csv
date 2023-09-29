@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Jul 17 10:51:07 UTC 2023","Mon Jul 17 10:52:40 UTC 2023","93215","Suite1","Chrome","testng.automation.tests.PlaceOrderTest","testng.automation.tests.PlaceOrderTest","guestCheckoutUsingDirectBankTransfer","Guest Checkout using Direct Bank Transfer","Test Description: Place Order test with Guest checkout using Direct Bank Transfer."
